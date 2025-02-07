@@ -13,7 +13,7 @@ public class BuiltinEverjade : AutoImplementedModSupport
 
         biomes = new Dictionary<string, BiomeEntry>
         {
-            {"JadeLakeBiome",       new BiomeEntry{ Title = "Jade Lake", SubTitle = "Awakened Light", TitleColor = Color.Cyan,        StrokeColor = Color.Black }},
+            {"JadeLakeBiome",       new BiomeEntry{ Title = "Jade Lake", SubTitle = "Everjade", TitleColor = Color.Cyan,        StrokeColor = Color.Black }},
         };
     }
 }

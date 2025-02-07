@@ -20,6 +20,9 @@ Supports all biomes and sub-biomes for the following:
 [*] Aequus
 [*] Friends, Furniture and Fun
 [*] Calamity Infernum
+[*] Rothur Mod
+[*] Everjade
+[*] Awakened Light
 
 Join our discord for updates/annoncements: [url]https://discord.gg/te6MPuWbtD[/url]
 
@@ -42,6 +45,3 @@ You can find my other mods here:
 
 or official addon here:
 [*]https://steamcommunity.com/sharedfiles/filedetails/?id=3019670863
-
-[i]linktr.ee/Dice_Terraria[/i]
-[quote=tModLoader]Developed By Dice and Blooming Dragon[/quote]
